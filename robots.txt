@@ -1,4 +1,7 @@
 User-agent: *
- Disallow: /css/
- Disallow: /js/
- Disallow: /libs/
+User-agent: Googlebot
+User-agent: YandexBot
+User-agent: Bingbot
+User-agent: Yahoo! Slurp
+Allow: /
+Sitemap: https://profoto.lutsk.ua/sitemap.xml
